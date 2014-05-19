@@ -1,0 +1,9 @@
+@import 'normalizecss';
+
+:root {
+  --blue: #5790EF;
+}
+
+h1 {
+  color: var(--blue);
+}

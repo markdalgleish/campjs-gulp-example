@@ -1,0 +1,1 @@
+( (...x) => console.log(...x) )('hello', 'camp', 'js');
